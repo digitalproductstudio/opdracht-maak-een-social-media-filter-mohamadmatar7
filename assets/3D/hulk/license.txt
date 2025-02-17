@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hulk Mask (Marvel)
+* source:	https://sketchfab.com/3d-models/hulk-mask-marvel-613c546b612a429781bc00f233dec581
+* author:	David Wigforss (https://sketchfab.com/dwigfor)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hulk Mask (Marvel)" (https://sketchfab.com/3d-models/hulk-mask-marvel-613c546b612a429781bc00f233dec581) by David Wigforss (https://sketchfab.com/dwigfor) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

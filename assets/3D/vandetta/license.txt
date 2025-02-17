@@ -1,0 +1,11 @@
+Model Information:
+* title:	Guy Fawkes mask
+* source:	https://sketchfab.com/3d-models/guy-fawkes-mask-7cd1505429d8410c9bfa0c14313ece78
+* author:	vicente betoret ferrero (https://sketchfab.com/deathcow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Guy Fawkes mask" (https://sketchfab.com/3d-models/guy-fawkes-mask-7cd1505429d8410c9bfa0c14313ece78) by vicente betoret ferrero (https://sketchfab.com/deathcow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

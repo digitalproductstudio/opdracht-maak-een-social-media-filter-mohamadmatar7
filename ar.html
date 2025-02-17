@@ -13,9 +13,9 @@
         <a-camera active="false" position="0 0 0" look-controls="enabled: true"></a-camera>
         <a-entity mindar-face-target="anchorIndex: 1">
             <!--
-            <a-gltf-model id="model" src="assets/3d/hulk/scene.gltf" scale="6.1 6.1 6" position="0 -1.1 -0.3"></a-gltf-model>
+            <a-gltf-model id="model" src="assets/3D/hulk/scene.gltf" scale="6.1 6.1 6" position="0 -1.1 -0.3"></a-gltf-model>
             -->
-            <a-gltf-model id="model" src="assets/3d/la_casa/scene.gltf" scale="0.7 0.7 0.6" position="0 -0.7 -0.3" rotation="95 0 0"></a-gltf-model>
+            <a-gltf-model id="model" src="assets/3D/la_casa/scene.gltf" scale="0.7 0.7 0.6" position="0 -0.7 -0.3" rotation="95 0 0"></a-gltf-model>
         </a-entity>
     </a-scene>
 
@@ -70,7 +70,7 @@
     <script>
     document.getElementById('la_casa-button').addEventListener('click', () => {
         let model = document.getElementById('model');
-        model.setAttribute('src', 'assets/3d/la_casa/scene.gltf');
+        model.setAttribute('src', 'assets/3D/la_casa/scene.gltf');
         model.setAttribute('position', '0 -0.7 -0.3');
         model.setAttribute('scale', '0.7 0.7 0.6');
         model.setAttribute('rotation', '95 0 0');
@@ -79,7 +79,7 @@
 
     document.getElementById('vandetta-button').addEventListener('click', () => {
         let model = document.getElementById('model');
-        model.setAttribute('src', 'assets/3d/vandetta/scene.gltf');
+        model.setAttribute('src', 'assets/3D/vandetta/scene.gltf');
         model.setAttribute('position', '0 -0.65 -0.3');
         model.setAttribute('scale', '1 0.8 0.8');
         model.setAttribute('rotation', '0 -90 0');
@@ -87,7 +87,7 @@
 
     document.getElementById('joker-button').addEventListener('click', () => {
         let model = document.getElementById('model');
-        model.setAttribute('src', 'assets/3d/joker/scene.gltf');
+        model.setAttribute('src', 'assets/3D/joker/scene.gltf');
         model.setAttribute('position', '0 -1.27 -0.3');
         model.setAttribute('scale', '6 6 5');
         model.setAttribute('rotation', '5 0 0');
@@ -95,7 +95,7 @@
 
     document.getElementById('batman-button').addEventListener('click', () => {
         let model = document.getElementById('model');
-        model.setAttribute('src', 'assets/3d/batman/scene.gltf');
+        model.setAttribute('src', 'assets/3D/batman/scene.gltf');
         model.setAttribute('position', '0 -0.75 -0.3');
         model.setAttribute('scale', '6 6 6');
         model.setAttribute('rotation', '0 0 0');
@@ -103,7 +103,7 @@
 
     document.getElementById('hulk-button').addEventListener('click', () => {
         let model = document.getElementById('model');
-        model.setAttribute('src', 'assets/3d/hulk/scene.gltf');
+        model.setAttribute('src', 'assets/3D/hulk/scene.gltf');
         model.setAttribute('position', '0 -1.1 -0.3');
         model.setAttribute('scale', '6.1 6.1 6');
         model.setAttribute('rotation', '0 0 0');
